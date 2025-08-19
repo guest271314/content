@@ -68,9 +68,6 @@ See [Using WebSocketStream to write a client](/en-US/docs/Web/API/WebSockets_API
 
 Not currently a part of any specification. See https://github.com/whatwg/websockets/pull/48 for standardization progress. 
 
-[WebSocketStream API design](https://docs.google.com/document/d/1La1ehXw76HP6n1uUeks-WJGFgAnpX2tCjKts7QFJ57Y/edit?pli=1&tab=t.0).
-
-
 ## Browser compatibility
 
 {{Compat}}
@@ -78,3 +75,4 @@ Not currently a part of any specification. See https://github.com/whatwg/websock
 ## See also
 
 - [WebSocketStream: integrating streams with the WebSocket API](https://developer.chrome.com/docs/capabilities/web-apis/websocketstream), developer.chrome.com (2020)
+- [WebSocketStream API design](https://docs.google.com/document/d/1La1ehXw76HP6n1uUeks-WJGFgAnpX2tCjKts7QFJ57Y/edit?pli=1&tab=t.0)
